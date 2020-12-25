@@ -1,4 +1,5 @@
-[English version here](index_en)
+[中文版本在這裏](index)
+
 
 ## 前言
 
@@ -21,3 +22,5 @@
 4. #### 從《論語》開始
 
 5. 
+
+
