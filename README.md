@@ -1,2 +1,2 @@
-# oldjapanese.github.io
-Textbook of Old Japanese
+# classical_japanese
+Textbook of Classical Japanese
