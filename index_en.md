@@ -21,7 +21,7 @@ This website will be continuously updated in the coming months (the table of con
 
 #### [1. What is Classical Japanese (Finished)](chapter_1)
 
-#### 2. Phonology of Classical Japanese
+#### 2. [Phonology of Classical Japanese (Finished)](chapter_2)
 
 #### 3. Kanji, and Kanji
 
